@@ -4,4 +4,4 @@ hello git ,this is a test
 hello git ,this is a test master
 hello git ,this is a test
 hello git ,this is a test
-hello git ,this is a test
+hello git ,this is a test hot-fix
